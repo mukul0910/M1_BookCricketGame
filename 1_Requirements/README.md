@@ -7,7 +7,9 @@ After wining the toss player have to decide bat or bowl.who is going to play fir
 Now he has to open book randomly and note down the last digit of that page number last digit.if last digit of number is zero then player will get out as i mentioned earlier in main README.md file.and then second player will have to play with the book.
 
 ## FLOW CHART 
-(Here attach the image of flow chart)
+![READING PLAYERS NAME](https://user-images.githubusercontent.com/101639510/160881795-c1d3dc3d-b6e0-407e-9cc8-eb3bb51310ba.jpg)
+
+
 ##  Defining our System
  Book Cricket have features like:
  -  Reading the names of the two players. 

@@ -2,13 +2,13 @@
 ## About game
 Book Cricket is an indoor game. It is popular among students in schools. Kids play this game when they have leisure time in school and whenever they feel the lecture is boring. Kids play this at home when the weather is not conducive for outdoor games. The easiness to play this game makes it more popular among kids.
 
-`Things Required:`
+### Things Required:
 
     A paper for each player
     Book preferable a big book with lot of pages
     Pen or Pencil
     Two players 
-`General way to play:`
+### General way to play:`
 
 1.Select book & total number of wickets 
 

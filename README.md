@@ -23,7 +23,8 @@ Book Cricket is an indoor game. It is popular among students in schools. Kids pl
 6.In every turn Runs are ‘Added’ onto the Runs scored by the Player in his/her ‘Previous’ turns. This Continues till the Player losses all his/her     Wickets’ or ‘Runs’ scored by that Player surpasses the Runs scored by other Player.`
 
 7.‘Sole Purpose’ is to ‘Win’ the Game by scoring ‘More Runs’ than your Opponent before loosing all your ‘Wickets’.
-## Badges 
+## Badges
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/48bcc1f99b3841189bc3c6322055603d)](https://www.codacy.com/gh/mukul0910/M1_BookCricketGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mukul0910/M1_BookCricketGame&amp;utm_campaign=Badge_Grade)
     
 ## Folder Structure
 Folder                   | Description

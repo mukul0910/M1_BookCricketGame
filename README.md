@@ -25,6 +25,8 @@ Book Cricket is an indoor game. It is popular among students in schools. Kids pl
 7.‘Sole Purpose’ is to ‘Win’ the Game by scoring ‘More Runs’ than your Opponent before loosing all your ‘Wickets’.
 ## Badges
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/48bcc1f99b3841189bc3c6322055603d)](https://www.codacy.com/gh/mukul0910/M1_BookCricketGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mukul0910/M1_BookCricketGame&amp;utm_campaign=Badge_Grade)
+
+[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.codiga.io)
     
 ## Folder Structure
 Folder                   | Description

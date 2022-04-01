@@ -1,4 +1,7 @@
 # M1_BookCricketGame
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/93e4507f31d4424e9c8ba394f462dc32)](https://app.codacy.com/gh/mukul0910/M1_BookCricketGame?utm_source=github.com&utm_medium=referral&utm_content=mukul0910/M1_BookCricketGame&utm_campaign=Badge_Grade_Settings)
+
 ## About game
 Book Cricket is an indoor game. It is popular among students in schools. Kids play this game when they have leisure time in school and whenever they feel the lecture is boring. Kids play this at home when the weather is not conducive for outdoor games. The easiness to play this game makes it more popular among kids.
 

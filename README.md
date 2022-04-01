@@ -22,7 +22,8 @@ Book Cricket is an indoor game. It is popular among students in schools. Kids pl
 
 6.In every turn Runs are ‘Added’ onto the Runs scored by the Player in his/her ‘Previous’ turns. This Continues till the Player losses all his/her     Wickets’ or ‘Runs’ scored by that Player surpasses the Runs scored by other Player.`
 
-7.‘Sole Purpose’ is to ‘Win’ the Game by scoring ‘More Runs’ than your Opponent before loosing all your ‘Wickets’.`
+7.‘Sole Purpose’ is to ‘Win’ the Game by scoring ‘More Runs’ than your Opponent before loosing all your ‘Wickets’.
+## Badges 
     
 ## Folder Structure
 Folder                   | Description
